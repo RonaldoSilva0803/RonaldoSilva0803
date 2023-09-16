@@ -29,5 +29,5 @@ isso é uma alteração
   <a href="https://www.instagram.com/ronaldomarkhels33/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
 </div>
 
- ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+  <img align="center" alt="Ronaldo-Js" height="30" width="40" src="https://github.com/RonaldoSilva0803/RonaldoSilva0803/blob/output/github-contribution-grid-snake.gif">
  
