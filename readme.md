@@ -1,5 +1,29 @@
-estudando o git
-isso é uma alteração
+# 👋 Olá! Eu sou Ronaldo Silva
+
+## Sobre Mim
+- 🎓 Engenheiro de Software em formação pela Universidade Anhanguera
+- 💻 Profissional Developer formado pela Digital House
+- 🚀 Apaixonado por tecnologia, desenvolvimento web e projetos inovadores
+- 🌟 Sempre em busca de novos desafios e aprendizados
+
+## Habilidades
+- JavaScript, Java, HTML5, CSS3, React
+- MySQL, Docker, Spring, Node.js
+- AWS, Selenium, Bash
+
+## Projetos Destacados
+- [dio-lab-portfolio](https://github.com/RonaldoSilva0803/dio-lab-portfolio): Portfólio front-end com projetos desenvolvidos durante cursos e laboratórios.
+- [mesa-trabalho-05](https://github.com/RonaldoSilva0803/mesa-trabalho-05): Projeto colaborativo desenvolvido na Digital House.
+- [estudos_js](https://github.com/RonaldoSilva0803/estudos_js): Repositório dedicado a estudos e experimentos em JavaScript.
+
+## Contato
+- 📧 [ronaldomarkhels@gmail.com](mailto:ronaldomarkhels@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ronaldomarkhels/)
+- 📷 [Instagram](https://www.instagram.com/ronaldomarkhels33/)
+
+Vamos nos conectar e criar algo incrível juntos! 🚀
+
+
 <div>
   <a href="https://github.com/RonaldoSilva0803/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RonaldoSilva0803&theme=tokyonight&hide=true" />
@@ -20,7 +44,7 @@ isso é uma alteração
   <img align="center" alt="Ronaldo-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img align="center" alt="Ronaldo-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
-     ##
+    
 <div>
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=purple" 
   target="_blank"></a>
@@ -30,4 +54,5 @@ isso é uma alteração
 </div>
 
   <img align="center" alt="Ronaldo-Js" height="30" width="40" src="https://github.com/RonaldoSilva0803/RonaldoSilva0803/blob/output/github-contribution-grid-snake.gif">
+
  
