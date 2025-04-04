@@ -38,8 +38,8 @@ Vamos nos conectar e criar algo incrível juntos! 🚀
 
 <div>
   <a href="https://github.com/RonaldoSilva0803/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RonaldoSilva0803&theme=tokyonight&hide=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoSilva0803&theme=tokyonight&hide&Compact=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RonaldoSilva0803&theme=gotham&hide=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoSilva0803&theme=gotham&hide&Compact=true" />
 </div>
 
 <div style="display: inline_block"><br>
