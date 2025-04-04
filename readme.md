@@ -7,10 +7,22 @@
 - 🌟 Sempre em busca de novos desafios e aprendizados
 
 ## Habilidades
-- JavaScript, Java, HTML5, CSS3, React
-- MySQL, Docker, Spring, Node.js
-- AWS, Selenium, Bash
+Desenvolvimento Front-End
 
+- JavaScript, HTML5, CSS3, DOM(Document Object Model), ReactJSX
+
+Desenvolvimento Back-End
+
+- Java, Spring e Spring Boot
+
+Banco de Dados
+
+- MySQL Postegres
+
+Infraestrutura 
+
+- Docker, AWS, Bash
+ 
 ## Projetos Destacados
 - [dio-lab-portfolio](https://github.com/RonaldoSilva0803/dio-lab-portfolio): Portfólio front-end com projetos desenvolvidos durante cursos e laboratórios.
 - [mesa-trabalho-05](https://github.com/RonaldoSilva0803/mesa-trabalho-05): Projeto colaborativo desenvolvido na Digital House.
@@ -27,7 +39,7 @@ Vamos nos conectar e criar algo incrível juntos! 🚀
 <div>
   <a href="https://github.com/RonaldoSilva0803/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RonaldoSilva0803&theme=tokyonight&hide=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoSilva0803&theme=tokyonight&hide_progress=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoSilva0803&theme=tokyonight&hide&Compact=true" />
 </div>
 
 <div style="display: inline_block"><br>
