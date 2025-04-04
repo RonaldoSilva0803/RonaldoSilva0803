@@ -51,6 +51,4 @@ Vamos nos conectar e criar algo incrível juntos! 🚀
   <a href="https://www.instagram.com/ronaldomarkhels33/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
 </div>
 
-  <img align="center" alt="Ronaldo-Js" height="30" width="40" src="https://github.com/RonaldoSilva0803/RonaldoSilva0803/blob/output/github-contribution-grid-snake.gif">
-
  
