@@ -19,11 +19,7 @@ Banco de Dados
 
 - MySQL Postegres
 
-Infraestrutura 
-
-- Docker, AWS, Bash
-
-- ### 🌐 Infraestrutura & Cloud
+### 🌐 Infraestrutura & Cloud
 
 *   **Google Cloud Platform (GCP):** Arquitetura e implementação de perímetros de rede seguros (VPCs), subnets e firewalls (*Build a Secure Google Cloud Network*).
 *   **Alta Disponibilidade:** Configuração, gerenciamento e implementação de balanceamento de carga no Compute Engine (*Implement Load Balancing on Compute Engine*).
