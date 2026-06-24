@@ -1,10 +1,7 @@
 # 👋 Olá! Eu sou Ronaldo Silva
 
 ## Sobre Mim
-- 🎓 Engenheiro de Software em formação pela Universidade Anhanguera
-- 💻 Profissional Developer formado pela Digital House
-- 🚀 Apaixonado por tecnologia, desenvolvimento web e projetos inovadores
-- 🌟 Sempre em busca de novos desafios e aprendizados
+🗣️ Facilitador Oficial Google Cloud: Atuei ativamente na mentoria e suporte técnico de estudantes no Programa de Facilitadores Brasil do Google Cloud Arcade (Janeiro a Maio de 2026).🤝 Google Career Launchpad (2026): Especializando em Engenharia de Nuvem, Análise de Dados e IA Generativa avançada pelo ecossistema oficial do Google.  🎓 Engenheiro de Software em formação pela Universidade Anhanguera.  💻 Professional Developer formado pela Digital House (1.568 horas de imersão prática em parceria com Globant & Mercado Livre).  🚀 Aceleração de Carreira: Capacitação complementar em Engenharia de Software focada em computação em nuvem pela parceria Ampli + SoulCode Academy + Google Cloud.  🌟 Maturidade & Resiliência: Mais de 10 anos de experiência gerenciando riscos corporativos e operações analíticas críticas de campo, trazendo a mentalidade de "cabeça de dono" para o desenvolvimento de software.  
 
 ## Habilidades
 Desenvolvimento Front-End
