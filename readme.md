@@ -22,6 +22,13 @@ Banco de Dados
 Infraestrutura 
 
 - Docker, AWS, Bash
+
+- ### 🌐 Infraestrutura & Cloud
+
+*   **Google Cloud Platform (GCP):** Arquitetura e implementação de perímetros de rede seguros (VPCs), subnets e firewalls (*Build a Secure Google Cloud Network*).
+*   **Alta Disponibilidade:** Configuração, gerenciamento e implementação de balanceamento de carga no Compute Engine (*Implement Load Balancing on Compute Engine*).
+*   **Automação e DevOps:** Provisionamento, automação e orquestração de ambientes de aplicação em nuvem (*Configure an Automation Application Environment*).
+*   **Containers & Outros Provedores:** Experiência prática com Docker, AWS (ecossistema de nuvem e IA com Claude 3) e automação via Shell Script/Bash[cite: 3].
  
 ## Projetos Destacados
 - [dio-lab-portfolio](https://github.com/RonaldoSilva0803/dio-lab-portfolio): Portfólio front-end com projetos desenvolvidos durante cursos e laboratórios.
