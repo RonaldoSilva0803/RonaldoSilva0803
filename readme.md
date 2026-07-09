@@ -37,8 +37,8 @@ Banco de Dados
 
 ## Contato
 - 📧 [ronaldomarkhels@gmail.com](mailto:ronaldomarkhels@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ronaldomarkhels/)
-- 📷 [Instagram](https://www.instagram.com/ronaldomarkhels33/)
+- 💼 [LinkedIn](linkedin.com/in/ronaldoleitesilva)
+- 📷 [Instagram](https://www.instagram.com/ronaldoinovatech/)
 
 Vamos nos conectar e criar algo incrível juntos! 🚀
 
